@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { sum } from './functions/sum.js';
+// import { sum } from './functions/sum.js';
 
 // assert.equal(sum(1,2), 3);
 // assert.equal(sum(3,3), 6);

@@ -1,5 +1,3 @@
-import { greet, farewell, auth } from './functions.js'
-
 // console.log(greet('Oleg'))
 // console.log(greet('Sonya'))
 

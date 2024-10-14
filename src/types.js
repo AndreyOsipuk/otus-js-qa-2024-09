@@ -1,5 +1,3 @@
-import { sum } from "./functions/sum.js";
-
 // Основный типы
 // 1. Number
 // 2. String
@@ -51,6 +49,6 @@ import { sum } from "./functions/sum.js";
 
 // console.log(0.1 + 0.2)
 
-//----------------------------------------------
+// ----------------------------------------------
 
 // console.log(sum(2, 4))
