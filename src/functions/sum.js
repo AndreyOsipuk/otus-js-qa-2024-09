@@ -8,9 +8,9 @@ export function sum(a, b) {
 // console.log(sum(4, 10))
 
 // function expression
-const sum2 = function (a, b) {
-  return a + b
-}
+// const sum2 = function (a, b) {
+//   return a + b
+// }
 
-// arrow function
-const sum3 = (a, b) => a + b
+// // arrow function
+// const sum3 = (a, b) => a + b
